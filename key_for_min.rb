@@ -7,3 +7,4 @@ hash.each do |value, key|
     value = key
 end
 end
+end
