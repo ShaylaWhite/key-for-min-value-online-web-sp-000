@@ -19,5 +19,5 @@ if name_hash.length == 0
       if min_num == value
         return key
       end
-    end
+    
   
